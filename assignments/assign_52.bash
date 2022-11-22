@@ -3,8 +3,8 @@
 
 ####################################################################
 # this assignment is NOT clear about how it is to be submitted to
-# Gradescope -- i.e., is it to be submited as a bash script file or
-# are you supposed to submit just the number .py files found?
+# Gradescope -- i.e., is it to be submitted as a bash script file or
+# are you supposed to submit just the number of .py files found?
 #
 # If this assignment is supposed to be submitted as a bash script
 # file, then all the text below is what should be included in the
