@@ -21,9 +21,7 @@ int main()
 	for (i = start; i < (end+1); i++)
 	{
 		if (i % 2 == 0)
-		{
 			cout << i << endl;
-		}
 	}
 
 	// exit function by returning 0 integer
