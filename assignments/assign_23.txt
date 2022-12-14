@@ -1,0 +1,5 @@
+
+# assignment 23
+
+
+out = (in1 and in2) or (not (in2 or in3))

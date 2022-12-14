@@ -1,0 +1,5 @@
+
+# assignment 22
+
+
+out = ((not (in1 and in2)) or in3)
