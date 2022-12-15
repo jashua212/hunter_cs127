@@ -10,7 +10,7 @@ import numpy as np
 outFile = 'shape_t.png'
 
 # create yellow img, where yellow = red + green
-img = np.zeros((30, 30, 3))
+img = np.zeros( (30, 30, 3) )
 img[:, :, 0:2] = 1
 
 blueVertical = range(5, 8)
